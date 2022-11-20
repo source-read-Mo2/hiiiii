@@ -22,7 +22,7 @@ from pyrogram import enums
 
 api_id = 13817616
 api_hash = "118fb0f2bfc0a7a54d1899c412e62a46"
-bot_token = "5596554489:AAFUujt1n3PUdNnf2NFNCoirQtFOE0HPA4o"
+bot_token = "5596554489:AAGeUG5txg2F65CKNZYYvCUjmPSGhOEgKsw"
 app = Client(
    'AppClient',
    api_id,
